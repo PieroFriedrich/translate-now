@@ -62,7 +62,7 @@ const Translator = () => {
 
   return (
     <div className="p-6 max-w-lg mx-auto bg-white shadow-lg rounded-lg space-y-6">
-      <h1 className="text-3xl font-bold text-center">Find Translation</h1>
+      <h1 className="text-3xl font-bold text-center">Translate Now</h1>
 
       <div className="space-y-2">
         <label htmlFor="input-language" className="block text-lg font-medium">
